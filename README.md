@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+  🧗‍♂️  Estou desenvolvendo projetos full stack.  
+  🖥️  Atualmente estou estudando java e php.
 
 <div>
  <a href="https://github.com/RonaldoFagundes">
@@ -14,7 +15,8 @@
   <img align"center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="RF-React">
   <img align"center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="RF-Flutter">
   <img align"center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="RF-Java">
-  <img align"center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="RF-Mysql">  
+  <img align"center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="RF-php">  
+  <img align"center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="RF-Mysql"> 
 </div>
 
 ##
