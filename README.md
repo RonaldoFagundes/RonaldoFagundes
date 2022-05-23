@@ -20,7 +20,11 @@
 </div>
 
 ##
+  <div>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=webBistro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  </div>  
   
+  ##
   <div>
      <a href="https://www.linkedin.com/in/ronaldofagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="mailto:ronaldofagundes" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
