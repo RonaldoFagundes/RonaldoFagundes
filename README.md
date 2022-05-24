@@ -1,7 +1,13 @@
-### Hi there 👋
-
-  Sou curioso, motivado e apaixonado por programação ,estou sempre em busca de aprender algo novo e adoro desenvolver software. 
-  🖥️  Atualmente estou desenvolvendo projetos full stack.
+### 
+  🙋‍♂️ Olá, meu nome é Ronaldo,
+  sou uma pessoa curiosa, motivada e apaixonada por programação ,estou sempre em busca de aprender algo novo e adoro desenvolver software. 
+  
+   🔭 Atualmente estou desenvolvendo projetos full stack.
+   🌱 No momento estou estudando java e php. 
+   👀 Estou em busca de uma oportunidade como profissional de programação.
+  
+ #  
+  
 
 <div>
  <a href="https://github.com/RonaldoFagundes">
@@ -55,4 +61,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🖥️ 
 -->
