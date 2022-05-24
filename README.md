@@ -1,7 +1,7 @@
 ### 
   🙋‍♂️ Olá, meu nome é Ronaldo,
   
-  sou uma pessoa curiosa, motivada e apaixonada por programação ,estou sempre em busca de aprender algo novo e adoro desenvolver software. 
+  sou uma pessoa curiosa, motivada e apaixonada por programação ,estou sempre em busca de aprender uma nova tecnologia e adoro desenvolver software. 
   
    🔭 Atualmente estou desenvolvendo projetos full stack.
    
