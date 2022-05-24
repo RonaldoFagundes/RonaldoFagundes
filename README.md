@@ -3,9 +3,9 @@
   
   Sou uma pessoa curiosa, motivada e apaixonada por programação ,estou sempre em busca de aprender uma nova tecnologia e adoro desenvolver software. 
   
-   🔭 Atualmente estou desenvolvendo projetos full stack.
+   🔭 No momento estou desenvolvendo projetos full stack.
    
-   🌱 No momento estou estudando java e php. 
+   🌱 Atualmente estou estudando java e php. 
    
    👀 Estou em busca de uma oportunidade como profissional de programação.
   
