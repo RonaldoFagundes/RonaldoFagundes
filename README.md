@@ -1,9 +1,12 @@
 ### 
   🙋‍♂️ Olá, meu nome é Ronaldo,
+  
   sou uma pessoa curiosa, motivada e apaixonada por programação ,estou sempre em busca de aprender algo novo e adoro desenvolver software. 
   
    🔭 Atualmente estou desenvolvendo projetos full stack.
+   
    🌱 No momento estou estudando java e php. 
+   
    👀 Estou em busca de uma oportunidade como profissional de programação.
   
  #  
