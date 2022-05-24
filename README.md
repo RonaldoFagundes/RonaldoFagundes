@@ -1,6 +1,7 @@
 ### Hi there 👋
-  🧗‍♂️  Estou desenvolvendo projetos full stack.  
-  🖥️  Atualmente estou estudando java e php.
+
+  Sou curioso, motivado e apaixonado por programação ,estou sempre em busca de aprender algo novo e adoro desenvolver software. 
+  🖥️  Atualmente estou desenvolvendo projetos full stack.
 
 <div>
  <a href="https://github.com/RonaldoFagundes">
@@ -19,10 +20,14 @@
   <img align"center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="RF-Mysql"> 
 </div>
 
-##
-  <div>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=webBistro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  </div>  
+## Repositórios Importantes
+ 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=webBistro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=phpWebBanc&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=javaWebBanc&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+ 
   
   ##
   <div>
