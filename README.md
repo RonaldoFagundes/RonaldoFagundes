@@ -31,13 +31,24 @@
 
 ## Repositórios Recentes
  
+ <div style="display: flex;">
+ 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=webBistro&theme=dracula)](https://github.com/RonaldoFagundes/webBistro) 
   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=phpWebBanc&theme=dracula)](https://github.com/RonaldoFagundes/phpWebBanc) 
+   
+ </div>  
+ 
   
+ <div style="display: flex;"> 
+ 
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=javaWebBanc&theme=dracula)](https://github.com/RonaldoFagundes/javaWebBanc) 
    
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=javaWebBanc&theme=dracula)](https://github.com/RonaldoFagundes/appBistro)  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=appBistro&theme=dracula)](https://github.com/RonadoFagundes/appBistro) 
+  
+ </div>    
+     
+   
   
   ##
   <div>
