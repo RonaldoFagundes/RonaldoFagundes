@@ -41,7 +41,7 @@
  
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=javaWebBanc&theme=dracula)](https://github.com/RonaldoFagundes/javaWebBanc) 
    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=appBistro&theme=dracula)](https://github.com/RonadoFagundes/appBistro) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=appBistro&theme=dracula)](https://github.com/RonadoFagundes/reactAppBistro) 
   
  </div>    
      
