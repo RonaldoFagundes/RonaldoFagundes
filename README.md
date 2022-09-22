@@ -34,7 +34,7 @@
  
  <div style="display:flex; justify-content: space-evenly;">
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=webPortfolio&theme=dracula)]       (https://github.com/RonaldoFagundes/webPortfolio)
+
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=reactAppBanc&theme=dracula)](https://github.com/RonaldoFagundes/reactAppBanc) 
  
