@@ -34,15 +34,18 @@
  
  <div style="display:flex; justify-content: space-evenly;">
  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=reactAppBistro&theme=dracula)](https://github.com/RonaldoFagundes/webPortfolio)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=reactAppBistro&theme=dracula)](https://github.com/RonaldoFagundes/reactAppBanc) 
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=reactAppBistro&theme=dracula)](https://github.com/RonaldoFagundes/reactAppBistro)
+ 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=webBistro&theme=dracula)](https://github.com/RonaldoFagundes/webBistro) 
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=phpWebBanc&theme=dracula)](https://github.com/RonaldoFagundes/phpWebBanc)    
-
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=phpWebBanc&theme=dracula)](https://github.com/RonaldoFagundes/phpWebBanc)   
  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=javaWebBanc&theme=dracula)](https://github.com/RonaldoFagundes/javaWebBanc) 
-   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=reactAppBistro&theme=dracula)](https://github.com/RonaldoFagundes/reactAppBistro) 
-  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldoFagundes&repo=javaWebBanc&theme=dracula)](https://github.com/RonaldoFagundes/javaWebBanc)  
+     
  </div>    
      
    
