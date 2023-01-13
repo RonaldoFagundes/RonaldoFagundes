@@ -1,7 +1,16 @@
 ## 
-  🙋‍♂️ Olá, meu nome é Ronaldo.
-  
-  Sou uma pessoa curiosa, motivada e apaixonada por programação ,estou sempre em busca de aprender uma nova tecnologia e adoro desenvolver software. 
+  🙋‍♂️ Olá, sejam bem vindos(as)! 
+   
+   Um pouco sobre mim...
+   
+  A cinco anos comecei a programar e através de muitos estudos e fazendo cursos profissionalizantes me capacitei a desenvolver projetos web e aplicativos usando    diferentes tecnologias.
+ 
+  Me identifiquei com essa área, pela necessidade de sempre buscar o conhecimento e consequentemente evoluir.
+
+ Sou apaixonado por programação e não passo um dia sem escrever linhas de códigos, ansioso para ver o resultado de cada uma.
+
+  Busco sempre me atualizar e adquirir novos conhecimentos com o objetivo de me tornar um grande desenvolvedor.
+
   
    🔭 No momento estou desenvolvendo projetos full stack.
    
