@@ -3,7 +3,7 @@
    
    Um pouco sobre mim...
    
-  A cinco anos comecei a programar e através de muitos estudos e fazendo cursos profissionalizantes me capacitei a desenvolver projetos web e aplicativos usando    diferentes tecnologias.
+ Em 2018 comecei a programar e através de muitos estudos e fazendo cursos profissionalizantes me capacitei a desenvolver projetos web e aplicativos usando    diferentes tecnologias.
  
   Me identifiquei com essa área, pela necessidade de sempre buscar o conhecimento e consequentemente evoluir.
 
