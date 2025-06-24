@@ -4,9 +4,10 @@
   Sou Ronaldo Fagundes, desenvolvedor Full Stack que gosta de construir soluções completas – da interface bonita até o back-end parrudo que segura tudo 😄
 
 ### 💻 Techs que uso com frequência:
-  - **Linguagens:** JavaScript, Java, Php
-  - **Front-end:** React Native, HTML, CSS 
-  - **Banco de Dados:** PostgreSQL, MongoDB e NoSQL
+  - **Linguagens:** JavaScript, TypeScript, Java, PHP
+  - **Front-end:** HTML, CSS, Saas e Bootstrap
+  - **Mobile:** React Native e Flutter 
+  - **Banco de Dados:** PostgreSQL, MySQL e NoSQL
   - **Metodologias Ágeis:** Scrum e Kanban
   - **Versionamento:** Git
  
