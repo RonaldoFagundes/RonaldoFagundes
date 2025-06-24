@@ -5,7 +5,7 @@
 
 ### 💻 Techs que uso com frequência:
   - **Linguagens:** JavaScript, TypeScript, Java, PHP
-  - **Front-end:** HTML, CSS, Saas e Bootstrap
+  - **Front-end:** Angular, HTML, CSS, Saas e Bootstrap
   - **Mobile:** React Native e Flutter 
   - **Banco de Dados:** PostgreSQL, MySQL e NoSQL
   - **Metodologias Ágeis:** Scrum e Kanban
