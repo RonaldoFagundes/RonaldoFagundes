@@ -1,25 +1,32 @@
 ## 
   🙋‍♂️ Olá, sejam bem vindos(as)! 
-   
-   Um pouco sobre mim...
-   
- Em 2018 comecei a programar e através de muitos estudos e fazendo cursos profissionalizantes me capacitei a desenvolver projetos web e aplicativos usando    diferentes tecnologias.
+
+  Sou Ronaldo Fagundes, desenvolvedor Full Stack que gosta de construir soluções completas – da interface bonita até o back-end parrudo que segura tudo 😄
+
+### 💻 Techs que uso com frequência:
+  - **Linguagens:** JavaScript, Java, Php
+  - **Front-end:** React Native, HTML, CSS 
+  - **Banco de Dados:** PostgreSQL, MongoDB e NoSQL
+  - **Metodologias Ágeis:** Scrum e Kanban
+  - **Versionamento:** Git
  
-  Me identifiquei com essa área, pela necessidade de sempre buscar o conhecimento e consequentemente evoluir.
+### 🚀 O que me move:
+ Criar sistemas úteis, aprender algo novo todo dia e colaborar com projetos que fazem a diferença. 
+ Adoro desafios técnicos e transformar ideias em código real (e funcional, de preferência sem bugs 😂).
 
- Sou apaixonado por programação e não passo um dia sem escrever linhas de códigos, ansioso para ver o resultado de cada uma.
+### 🌱 Atualmente aprendendo:
+- GraphQL
+- Arquitetura de microsserviços
+- Testes automatizados com Jest e Cypress
 
-  Busco sempre me atualizar e adquirir novos conhecimentos com o objetivo de me tornar um grande desenvolvedor.
+### 📫 Vamos conversar?
+Me chama no [LinkedIn](https://www.linkedin.com/in/ronaldofagundes) ou dá um alô por aqui!
 
+
+     
+  #
   
-   🔭 No momento estou desenvolvendo projetos full stack.
-   
-   🌱 Atualmente estou estudando java e php. 
-   
-   👀 Estou em busca de uma oportunidade como profissional de programação.
-  
- #  
-  
+
 
 <div>
  <a href="https://github.com/RonaldoFagundes">
