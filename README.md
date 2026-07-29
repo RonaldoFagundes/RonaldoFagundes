@@ -19,15 +19,21 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 Sou desenvolvedor **Full Stack** apaixonado por tecnologia e por criar soluções completas, desde interfaces modernas até APIs, bancos de dados e integrações com dispositivos inteligentes.
 
-Tenho experiência no desenvolvimento de aplicações **Web, Mobile e IoT**, buscando sempre aplicar boas práticas de programação, arquitetura de software e uma excelente experiência para o usuário.
+Tenho experiência no desenvolvimento de aplicações **Web, Mobile e IoT**, buscando sempre aplicar boas práticas de programação, arquitetura de software e proporcionar uma boa experiência ao usuário.
 
-Gosto de transformar ideias em projetos reais, explorando novas tecnologias e criando soluções eficientes, funcionais e escaláveis.
+Gosto de transformar ideias em soluções reais, explorando novas tecnologias e desenvolvendo projetos funcionais, escaláveis e eficientes.
 
-Atualmente venho aprofundando meus conhecimentos em **arquitetura de sistemas, microsserviços, testes automatizados e soluções IoT utilizando ESP32 e MQTT**.
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Arquitetura de software;
+- Microsserviços;
+- Testes automatizados;
+- Desenvolvimento Mobile;
+- Soluções IoT utilizando ESP32 e MQTT.
 
 
 ---
@@ -42,6 +48,7 @@ Atualmente venho aprofundando meus conhecimentos em **arquitetura de sistemas, m
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -52,6 +59,7 @@ Atualmente venho aprofundando meus conhecimentos em **arquitetura de sistemas, m
 - JavaScript
 - TypeScript
 - Angular
+- React
 - HTML5
 - CSS3
 - Sass
@@ -89,7 +97,7 @@ Atualmente venho aprofundando meus conhecimentos em **arquitetura de sistemas, m
 
 - React Native
 - Flutter
-- Desenvolvimento de aplicativos Android/iOS
+- Desenvolvimento Android/iOS
 
 
 ---
@@ -102,13 +110,13 @@ Atualmente venho aprofundando meus conhecimentos em **arquitetura de sistemas, m
 
 </div>
 
-
 - ESP32
 - MQTT
 - WebSocket
+- Servo Motor
 - Sensores e atuadores
 - Automação residencial
-- Simulações com Wokwi
+- Simulação com Wokwi
 
 
 ---
@@ -133,7 +141,7 @@ Atualmente venho aprofundando meus conhecimentos em **arquitetura de sistemas, m
 
 ---
 
-# ⭐ Projetos em destaque
+# ⭐ Projetos Principais
 
 
 ## 🏠 My Home - Controle de Porta IoT
@@ -147,94 +155,116 @@ Sistema de automação residencial desenvolvido utilizando:
 - Servo Motor
 - LEDs indicadores
 
-
-### Funcionalidades:
+Funcionalidades:
 
 ✅ Controle remoto da porta pelo aplicativo  
 ✅ Comunicação em tempo real via MQTT  
-✅ Controle do ESP32  
-✅ Indicador LED verde/vermelho de estado  
+✅ Integração entre Mobile e Hardware  
+✅ Indicador visual de porta aberta/fechada  
 ✅ Simulação completa no Wokwi  
-
-
-🔗 Repositório:
-
-https://github.com/RonaldoFagundes/expoAppIOT
 
 
 ---
 
+## 💰 React Native Financial
 
-## 🍽️ Web Bistro
+Aplicativo mobile para controle financeiro desenvolvido utilizando React Native.
 
-Sistema web desenvolvido para gerenciamento e apresentação de serviços utilizando tecnologias modernas de front-end.
+Principais recursos:
+
+✅ Interface mobile responsiva  
+✅ Organização por componentes  
+✅ Gerenciamento de dados financeiros  
+
+
+---
+
+## 💰 PHP Financial System
+
+Sistema financeiro web desenvolvido utilizando PHP.
 
 Tecnologias:
 
+- PHP
+- MySQL
 - HTML
 - CSS
 - JavaScript
 
 
-🔗 Repositório:
+---
 
-https://github.com/RonaldoFagundes/webBistro
+## ☕ Java Servlet Financial Control
+
+Sistema financeiro utilizando Java Web.
+
+Tecnologias:
+
+- Java
+- Servlets
+- JSP
+- Banco de Dados
 
 
 ---
 
+
 # 📌 Repositórios em Destaque
+
 
 <div align="center">
 
+
 <a href="https://github.com/RonaldoFagundes/webPortfolio">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RonaldoFagundes&repo=webPortfolio&theme=dracula"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RonaldoFagundes&repo=webPortfolio&theme=dracula&hide_border=true"/>
 </a>
 
+
 <a href="https://github.com/RonaldoFagundes/reactNativeFinancial">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RonaldoFagundes&repo=reactNativeFinancial&theme=dracula"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RonaldoFagundes&repo=reactNativeFinancial&theme=dracula&hide_border=true"/>
 </a>
+
 
 <br/>
 
+
 <a href="https://github.com/RonaldoFagundes/phpFinancialSystem">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RonaldoFagundes&repo=phpFinancialSystem&theme=dracula"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RonaldoFagundes&repo=phpFinancialSystem&theme=dracula&hide_border=true"/>
 </a>
 
+
 <a href="https://github.com/RonaldoFagundes/javaServletFinancialControl">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RonaldoFagundes&repo=javaServletFinancialControl&theme=dracula"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RonaldoFagundes&repo=javaServletFinancialControl&theme=dracula&hide_border=true"/>
 </a>
+
 
 </div>
 
 
-# 📂 Áreas de Desenvolvimento
+---
 
 
-| Área | Tecnologias |
-|---|---|
-| Front-end | Angular, React, HTML, CSS |
-| Mobile | React Native, Flutter |
-| Back-end | Java Spring, Laravel |
-| Banco de Dados | PostgreSQL, MySQL |
-| IoT | ESP32, MQTT |
-| Versionamento | Git/GitHub |
+# 📊 Estatísticas GitHub
+
+
+<div align="center">
+
+
+<img height="180em"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=RonaldoFagundes&show_icons=true&theme=dracula"/>
+
+
+<img height="180em"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RonaldoFagundes&layout=compact&theme=dracula"/>
+
+
+</div>
 
 
 ---
 
-# 🌱 Atualmente estudando
 
-📌 Arquitetura de microsserviços  
-📌 GraphQL  
-📌 Testes automatizados com Jest e Cypress  
-📌 Boas práticas de arquitetura de software  
-📌 Cloud Computing  
-
-
----
-
-# 📊 GitHub Activity
+# 📈 Atividade GitHub
 
 
 <div align="center">
@@ -246,38 +276,38 @@ https://github.com/RonaldoFagundes/webBistro
 
 ---
 
-# 📌 Metodologias
 
-- Scrum
-- Kanban
-- Clean Code
-- Versionamento com Git
-- Desenvolvimento colaborativo
+# 🌱 Atualmente estudando
+
+- GraphQL
+- Arquitetura de microsserviços
+- Testes automatizados com Jest
+- Testes E2E com Cypress
+- Cloud Computing
+- Boas práticas de arquitetura
+
+
+---
+
+
+# 🎯 O que me motiva
+
+Criar soluções que resolvam problemas reais, aprender continuamente e colaborar em projetos que utilizem tecnologia para gerar impacto.
+
+Acredito que desenvolvimento de software vai além do código: envolve entender necessidades, criar boas experiências e construir soluções sustentáveis.
 
 
 ---
 
-# 🎯 O que me move
-
-Criar soluções que resolvam problemas reais, aprender continuamente e colaborar em projetos que gerem impacto.
-
-Acredito que tecnologia é uma ferramenta para transformar ideias em produtos funcionais, acessíveis e eficientes.
-
-
----
 
 # 📫 Vamos conversar?
 
 
 <div>
 
+
 <a href="https://www.linkedin.com/in/ronaldofagundes">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-
-<a href="mailto:ronaldofagundes">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 
@@ -285,14 +315,17 @@ Acredito que tecnologia é uma ferramenta para transformar ideias em produtos fu
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+
 </div>
 
 
 ---
 
+
 <div align="center">
 
-⭐ Obrigado pela visita!  
+⭐ Obrigado pela visita!
+
 🚀 Sempre aprendendo, criando e evoluindo.
 
 </div>
