@@ -23,17 +23,19 @@
 
 Sou desenvolvedor **Full Stack** apaixonado por tecnologia e por criar soluções completas, desde interfaces modernas até APIs, bancos de dados e integrações com dispositivos inteligentes.
 
-Tenho experiência no desenvolvimento de aplicações **Web, Mobile e IoT**, buscando sempre aplicar boas práticas de programação, arquitetura de software e proporcionar uma boa experiência ao usuário.
+Tenho experiência no desenvolvimento de aplicações **Web, Mobile e IoT**, buscando aplicar boas práticas de programação, arquitetura de software e qualidade de código para criar soluções eficientes, escaláveis e com uma boa experiência para o usuário.
 
-Gosto de transformar ideias em soluções reais, explorando novas tecnologias e desenvolvendo projetos funcionais, escaláveis e eficientes.
+Gosto de transformar ideias em projetos reais, explorando novas tecnologias e construindo aplicações que unam software, hardware e inovação.
 
-Atualmente estou aprofundando meus conhecimentos em:
+Atualmente estou aprimorando meus conhecimentos em:
 
-- Arquitetura de software;
-- Microsserviços;
-- Testes automatizados;
-- Desenvolvimento Mobile;
-- Soluções IoT utilizando ESP32 e MQTT.
+- 🏗️ **Arquitetura de software e boas práticas de desenvolvimento**
+- 🔗 **Arquitetura de microsserviços**
+- 📱 **Desenvolvimento Mobile com React Native e Flutter**
+- 📡 **Soluções IoT utilizando ESP32 e MQTT**
+- 🔎 **GraphQL e construção de APIs modernas**
+- 🧪 **Testes automatizados com Jest e Cypress**
+- ☁️ **Cloud Computing**
 
 
 ---
@@ -71,10 +73,10 @@ Atualmente estou aprofundando meus conhecimentos em:
 ## ⚙️ Back-end
 
 <div>
-
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
+ <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+ <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+ <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </div>
 
 - Java
@@ -105,9 +107,10 @@ Atualmente estou aprofundando meus conhecimentos em:
 ## 🤖 Internet das Coisas (IoT)
 
 <div>
-
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"> 
+  <img height="35" src="https://img.shields.io/badge/ESP32-IoT-E7352C?style=for-the-badge">
+  <img height="35" src="https://img.shields.io/badge/MQTT-Protocol-660066?style=for-the-badge">
 </div>
 
 - ESP32
@@ -122,6 +125,10 @@ Atualmente estou aprofundando meus conhecimentos em:
 ---
 
 ## 🗄 Banco de Dados
+<div>
+ <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div>
 
 - PostgreSQL
 - MySQL
@@ -131,6 +138,14 @@ Atualmente estou aprofundando meus conhecimentos em:
 ---
 
 ## 🛠 Ferramentas
+
+<div>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"> 
+  <img height="35" src="https://img.shields.io/badge/Scrum-Agile-blue?style=for-the-badge">
+  <img height="35" src="https://img.shields.io/badge/Kanban-Management-purple?style=for-the-badge">
+</div>
 
 - Git
 - GitHub
@@ -272,19 +287,6 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonaldoFagundes&theme=dracula"/>
 
 </div>
-
-
----
-
-
-# 🌱 Atualmente estudando
-
-- GraphQL
-- Arquitetura de microsserviços
-- Testes automatizados com Jest
-- Testes E2E com Cypress
-- Cloud Computing
-- Boas práticas de arquitetura
 
 
 ---
